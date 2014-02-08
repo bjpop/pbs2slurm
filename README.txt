@@ -11,5 +11,7 @@ Always make a backup of your data before using this program.
 
 Usage: pbs2slurm.py < pbs_file > slurm_file
 
+Testing: ./runtests.sh
+
 License: BSD
 Author: Bernie Pope
