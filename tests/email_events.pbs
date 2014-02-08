@@ -1,0 +1,14 @@
+#PBS -m a
+#PBS   -m     a     
+#PBS -m b
+#PBS -m e
+#PBS -m ab
+#PBS -m ba
+#PBS -m ae
+#PBS -m ea
+#PBS -m be
+#PBS -m eb
+#PBS -m abe
+#PBS -m bae
+#PBS -m bea
+#PBS -m eba

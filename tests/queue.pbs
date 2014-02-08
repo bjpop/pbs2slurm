@@ -1,0 +1,3 @@
+#PBS -q foo
+#PBS   -q    bar  
+#PBS   -q    queue.with-non_word+chars

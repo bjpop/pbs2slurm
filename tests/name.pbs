@@ -1,0 +1,3 @@
+#PBS -N foo
+#PBS    -N     bar     
+#PBS -N name.with.dots

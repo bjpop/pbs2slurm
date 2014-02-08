@@ -1,0 +1,3 @@
+#PBS -M foo@bar.com
+#PBS       -M           foo@bar.com     
+#PBS -M funnyemailaddress

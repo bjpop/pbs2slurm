@@ -1,0 +1,9 @@
+#PBS -l walltime=1:2:3:4
+#PBS        -l         walltime=1:2:3:4    
+#PBS -l walltime=0:0:0:0
+#PBS -l walltime=0:0:0
+#PBS -l walltime=1:2:3
+#PBS -l walltime=1234:5678:4567:89101112
+#PBS -l walltime=123:4567:89101112
+#PBS -l walltime=15:0
+#PBS -l walltime=10

@@ -1,0 +1,16 @@
+#PBS -l pvmem=1gb
+#PBS      -l       pvmem=1gb      
+#PBS -l pvmem=7b
+#PBS -l pvmem=7kb
+#PBS -l pvmem=1023kb
+#PBS -l pvmem=1024kb
+#PBS -l pvmem=1025kb
+#PBS -l pvmem=7mb
+#PBS -l pvmem=1023mb
+#PBS -l pvmem=1024mb
+#PBS -l pvmem=1025mb
+#PBS -l pvmem=7gb
+#PBS -l pvmem=1023gb
+#PBS -l pvmem=1024gb
+#PBS -l pvmem=1025gb
+#PBS -l pvmem=7tb

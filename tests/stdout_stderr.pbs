@@ -1,0 +1,4 @@
+#PBS -o run.out
+#PBS    -o     run.out
+#PBS -e run.err
+#PBS    -e     run.err

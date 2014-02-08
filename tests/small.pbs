@@ -1,0 +1,8 @@
+#!/bin/bash
+#PBS -l procs=16
+#PBS -l walltime=01:00:00
+#PBS -l pvmem=1gb
+#PBS -N MyTestJob
+cd $PBS_O_WORKDIR
+module load app-name/version
+mpiexec My-MPI-app

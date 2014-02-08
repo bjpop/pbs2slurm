@@ -1,0 +1,9 @@
+#SBATCH --time=1-2:3:4
+#SBATCH --time=1-2:3:4
+#SBATCH --time=0-0:0:0
+#SBATCH --time=0-0:0:0
+#SBATCH --time=0-1:2:3
+#SBATCH --time=1234-5678:4567:89101112
+#SBATCH --time=0-123:4567:89101112
+#SBATCH --time=0-0:15:0
+#SBATCH --time=0-0:0:10

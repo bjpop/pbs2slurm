@@ -1,0 +1,2 @@
+#PBS -l procs=16,tpn=4
+#PBS    -l    procs=16,   tpn=4   
